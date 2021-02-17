@@ -1,0 +1,16 @@
+.main-exchange-container{
+    display: flex;
+    flex-wrap: wrap;
+    height: ;
+}
+.main-exchange-container--title{
+    margin: auto;
+    width: 60%;
+}
+html{
+    width: 1100px;
+    margin: auto;
+}
+.backgroundImg{
+    margin-left: 100px;
+}
